@@ -58,18 +58,9 @@
       "name": "Lenovo Y700",
       "BRAND": "Lenovo",
       "DEVICE": "Lenovo Legion Y700",
-      "MANUFACTURER": "Lenovo",
+      "MANUFACTURER": "lenovo",
       "MODEL": "Lenovo TB-9707F",
       "FINGERPRINT": "Lenovo/TB-9707F_PRC/TB-9707F:13/TKQ1.221013.002/15.0.342_231018:user/release-keys",
-      "PRODUCT": "TB-9707F"
-    },
-    {
-      "name": "Legion Y700 (2023)",
-      "BRAND": "Lenovo",
-      "DEVICE": "Lenovo Legion Y700",
-      "MANUFACTURER": "Lenovo",
-      "MODEL": "Lenovo TB-9707F",
-      "FINGERPRINT": "Lenovo/TB-9707F/Lenovo TB-9707F:13/TQ3A.230805.001/20230901:user/release-keys",
       "PRODUCT": "TB-9707F"
     },
     {
