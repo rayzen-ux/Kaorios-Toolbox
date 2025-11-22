@@ -248,8 +248,6 @@
     <string name="settings_dialog_primary_color_hex_label">Mã màu #RRGGBB</string>
     <string name="settings_language_title">Ngôn ngữ</string>
     <string name="settings_language_system">Theo ngôn ngữ hệ thống</string>
-    <string name="settings_language_english">Tiếng Anh</string>
-    <string name="settings_language_vietnamese">Tiếng Việt</string>
     <string name="settings_language_dialog_title">Chọn ngôn ngữ</string>
 
     <!-- Tools -->
@@ -378,4 +376,3 @@
     <string name="main_preview_notice">Thông báo chạy dài ví dụ ví dụ ví dụ ví dụ ví dụ ví dụ ví dụ</string>
     <string name="main_preview_body">Preview body</string>
 </resources>
-
