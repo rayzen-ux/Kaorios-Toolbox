@@ -118,6 +118,15 @@
       "PRODUCT": "PJD110"
     },
     {
+      "name": "OnePlus 15",
+      "BRAND": "OnePlus",
+      "DEVICE": "OP60FFL1",
+      "MANUFACTURER": "OnePlus",
+      "MODEL": "PLK110",
+      "FINGERPRINT": "PLK110",
+      "PRODUCT": "PLK110"
+    },
+    {
       "name": "POCO F5",
       "BRAND": "POCO",
       "DEVICE": "POCO F5",
